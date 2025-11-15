@@ -6,6 +6,20 @@ A modern ChatGPT-style AI chat application built using React + Vite on the front
 The system supports session-based chatting, AI responses using Gemini API, clean UI design, mock table data rendering, and dynamic session history — all without using a database.
 
 This project demonstrates full-stack skills with a real-world architecture suitable for resumes and job applications.
+| Technology    | Purpose               |
+| ------------- | --------------------- |
+| React (Hooks) | UI & components       |
+| Vite          | Fast bundler          |
+| TailwindCSS   | Styling               |
+| React Router  | Routing               |
+| Fetch API     | Backend communication |
+
+| Technology           | Purpose            |
+| -------------------- | ------------------ |
+| Node.js + Express    | REST API           |
+| Google Generative AI | AI responses       |
+| CORS + Body Parser   | Middleware         |
+| In-memory Storage    | Session management |
 
 ✨ Features
 
